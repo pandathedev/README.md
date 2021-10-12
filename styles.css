@@ -1,6 +1,9 @@
 body{
-  background-color: sandybrown;
+  background-color: rgb(96, 185, 244);
 }
 h1{
-  background-color: purple ;
+  background-color: rgb(4, 128, 0) ;
+}
+p1{
+  color: rgb(174, 0, 255);
 }
